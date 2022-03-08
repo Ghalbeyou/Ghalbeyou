@@ -1,4 +1,4 @@
-# Arash IS Here!
+# Itz Arash!
 A pro coder in python, js and html!
 I also code to c#,c++ and more!
 ## projects
@@ -9,7 +9,5 @@ I have 3 big projects.
 this  one is not cancled! and also i am coding it right now. its a basic CMS system for php.
 ### 3. Discord Botter
 Coding...
-
-
 # copyright
 NO COPY!
