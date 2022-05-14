@@ -1,5 +1,5 @@
-# Itz Arash!
-A pro coder in python, js and html!
+# Its Arash!
+A pro coder in python, js, html, node js, express js,c#,C++, PHP, C, Objective-C, GO,Ruby and BrainFuck
 I also code to c#,c++ and more!
 ## projects
 I have 3 big projects.
