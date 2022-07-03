@@ -1,47 +1,40 @@
-# Its Arash!
-![trust](https://github-profile-trophy.vercel.app/?username=ghalbeyou&theme=gruvbox)
+<h2> Hey there! I'm arash. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/GhalbeYou/GhalbeYou/master/gif3.gif" width="500"/>
 
-A pro coder in python, js, html, node js, express js,c#,C++, PHP, C, Objective-C, GO,Ruby and BrainFuck
-I also code to c#,c++ and more!
-## Status
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ghalbeyou&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghalbeyou&layout=compact" />
-</div>
+<h3> 👨🏻‍💻 About Me </h3>
 
-## Document
-I have built a document for all of my programs and apps, so that new users can learn how to work with my apps. if you want to visit my document, [Click Here](https://docs.ghalbeyou.ir/) , the document is compelety free and [Open Source](https://github.com/ghalbeyou/ghalbeyou-docs), so you can edit it or remove some parts or even add new parts!
-## Tools I Used
-I use : 
-- Git
-- GitHub
-- VsCode
-- VS2022
-- VS2019
-- Unreal Engine
-- Unity
-- Figma
-- And more
-## Tools I Created
-- [Python Compiler written in c++](https://github.com/Ghalbeyou/Python-Compiler)
+- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; Computer Programs and Web developer and front-end web developer.
+- 🌱 &nbsp; Learning Artificial Intelligence .
+- ✍️ &nbsp; Watching a lot of movies and trying to design logos and icons.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be good for you to start developing. 
 
-- [HTTP DOS ATTACK TOOL BETA written in python](https://github.com/Ghalbeyou/Http-Dos-Attack-Tool)
+<h3>🛠 Tech Stack</h3>
 
-- [Log it right now dude! a package for npm js](https://github.com/Ghalbeyou/logitrightnowdude)
+- 💻 &nbsp; Python | Dart | Java | C++  | Java
+- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git | Sublime Text
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
-- [MC BOT UI](https://github.com/Ghalbeyou/mc-bot-electron)
+<br>
 
-- [Batch Maker](https://github.com/Ghalbeyou/Batch-Maker)
-## What sould i build next?
-By sponsoring me, I can get your voice so I can build more apps with your idea!
-## Sponsoring
-[Sponser Me!](https://patreon.com/ghalbeyou)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GhalbeYou&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GhalbeYou's Github Stats">
 
-Also, you can join my discord server => **SOON!**
-## Teams
-I'm in [AppMakers-Team](https://github.com/App-Makers-Team) , [GhalbeOrg](https://github.com/GhalbeOrg) and [ChatOnlineTeam](https://github.com/ChatOnlineTeam)
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhalbeYou&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/GhalbeYou/github-readme-stats)
 
 
+<h3> 🤝🏻 Connect with Me </h3>
 
-# copyright
-NO COPY!
+<p align="center">
+&nbsp; <a href="https://twitter.com/AminiAccount" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:arashaminiasdf@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+⭐️ All copyright for [@ghalbeyou](https://github.com/ghalbeyou) from **GitHub**.
