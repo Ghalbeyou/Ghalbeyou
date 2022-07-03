@@ -1,7 +1,7 @@
 # Its Arash!
+![trust](https://github-profile-trophy.vercel.app/?username=ghalbeyou&theme=gruvbox)
 A pro coder in python, js, html, node js, express js,c#,C++, PHP, C, Objective-C, GO,Ruby and BrainFuck
 I also code to c#,c++ and more!
-[![trophy](https://github-profile-trophy.vercel.app/?username=ghalbeyou)](https://github.com/ryo-ma/github-profile-trophy)
 ## Document
 I have built a document for all of my programs and apps, so that new users can learn how to work with my apps. if you want to visit my document, [Click Here](https://docs.ghalbeyou.ir/) , the document is compelety free and [Open Source](https://github.com/ghalbeyou/ghalbeyou-docs), so you can edit it or remove some parts or even add new parts!
 ## Tools I Used
