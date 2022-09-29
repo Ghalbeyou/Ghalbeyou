@@ -47,7 +47,7 @@ A <b>PRO</b> gamer, student + programmer. I like to program its fun and make me 
 <table>
 <th>
 <h3>Contact me</h3>
-How you can contact me? you can contact me by clicking on logos. by clicking you will redirect to the social page.
+How you can contact me? you can contact me by clicking on logos. by clicking you will redirect to the social page. try clicking on one of the icons to redirect to social page to contact me for free. Please also don't spam because spamming = ban.
 <br/>
 <a href="https://discord.ghalbeyou.ir"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"/></a>
 <a href="https://ghalbeyou.ir"><img src="https://skillicons.dev/icons?i=html" alt="Contact page"/></a>
