@@ -1,40 +1,56 @@
-<h2> Hey there! I'm arash. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/GhalbeYou/GhalbeYou/master/gif3.gif" width="500"/>
+<h1>Hey, Its <b>GhalbeYou</b>! 👋👋👋 </h1>
+<table>
+<th>
+<h3>About Me</h3>
+A <b>PRO</b> gamer, student + programmer. I like to program its fun and make me happy. all of my time is spent for programing. maybe you should too.
+</th>
+</table>
+<table>
+<th width="50%">
+<h2>Apps:</h2>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,atom" alt="vs 2022"/>
+<img src="https://skillicons.dev/icons?i=unity,unrealengine" alt="vs 2022"/>
+</th>
+<th>
+<h2>Languages:</h2>
+<img src="https://skillicons.dev/icons?i=python,js,css,html,markdown" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=java,nextjs,react,cs,cpp" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=c,ts,swift" alt="Languages"/>
+</th>
+</table>
 
-<h3> 👨🏻‍💻 About Me </h3>
+[//]: # (<table>)
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Computer Programs and Web developer and front-end web developer.
-- 🌱 &nbsp; Learning Artificial Intelligence .
-- ✍️ &nbsp; Watching a lot of movies and trying to design logos and icons.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be good for you to start developing. 
+[//]: # (<th width="50%">)
 
-<h3>🛠 Tech Stack</h3>
+[//]: # (<h2>App/packages i made:</h2>)
 
-- 💻 &nbsp; Python | Dart | Java | C++  | Asm | C# | C | Objective-C
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git | Sublime Text
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+[//]: # (<img src="https://skillicons.dev/icons?i=vscode,visualstudio,atom" alt="vs 2022"/>)
 
-<br>
+[//]: # (<img src="https://skillicons.dev/icons?i=unity,unrealengine" alt="vs 2022"/>)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GhalbeYou&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GhalbeYou's Github Stats">
+[//]: # (</th>)
 
-</br>
+[//]: # (<th>)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhalbeYou&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/GhalbeYou/github-readme-stats)
+[//]: # (<h2>Languages:</h2>)
 
+[//]: # (<img src="https://skillicons.dev/icons?i=python,js,css,html,markdown" alt="Languages"/>)
 
-<h3> 🤝🏻 Connect with Me </h3>
+[//]: # (<img src="https://skillicons.dev/icons?i=java,nextjs,react,cs,cpp" alt="Languages"/>)
 
-<p align="center">
-&nbsp; <a href="https://twitter.com/AccountAmini" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:arashaminiasdf@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+[//]: # (<img src="https://skillicons.dev/icons?i=c,ts,swift" alt="Languages"/>)
 
-⭐️ All copyright for [@ghalbeyou](https://github.com/ghalbeyou) from **GitHub**.
+[//]: # (</th>)
+
+[//]: # (</table>)
+<table>
+<th>
+<h3>Contact me</h3>
+How you can contact me? you can contact me by clicking on logos. by clicking you will redirect to the social page.
+<br/>
+<a href="https://discord.ghalbeyou.ir"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"/></a>
+<a href="https://ghalbeyou.ir"><img src="https://skillicons.dev/icons?i=html" alt="Contact page"/></a>
+<a href="https://github.com/ghalbeyou"><img src="https://skillicons.dev/icons?i=github" alt="Github"/></a>
+</th>
+</table>
