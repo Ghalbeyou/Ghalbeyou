@@ -1,32 +1,36 @@
-# Hi there! I'm ArashSlime(GhalbeYou)! 👋
+# Hi there, I'm GhalbeYou! 👋
 
 ## About Me
-🎮 Gamer | 🎓 Student | 💻 Programmer
+I'm a passionate programmer, student, and avid gamer. I find joy in coding and love turning ideas into reality through software. Constantly exploring new technologies and building exciting projects is what keeps me motivated.
 
-Welcome to my GitHub! I'm passionate about coding, and I love turning ideas into reality through programming. My journey in the world of technology is filled with exciting projects and learning experiences. Join me as I continue to explore and create!
+## Tech Stack
+### Languages & Frameworks
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=node-dot-js)
 
-## Skills
-### Apps & Tools
-![VS Code](https://img.shields.io/badge/Editor-VS_Code-blue?style=flat-square&logo=visual-studio-code)
-![Unity](https://img.shields.io/badge/Game_Engine-Unity-blue?style=flat-square&logo=unity)
-![Unreal Engine](https://img.shields.io/badge/Game_Engine-Unreal_Engine-blue?style=flat-square&logo=unreal-engine)
+### Tools & Platforms
+![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Heroku](https://skillicons.dev/icons?i=heroku)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
-### Languages
-![Python](https://img.shields.io/badge/Python-%E2%9D%A4%EF%B8%8F-blue?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-%E2%9D%A4%EF%B8%8F-yellow?style=flat-square&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-%E2%9D%A4%EF%B8%8F-orange?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-%E2%9D%A4%EF%B8%8F-blue?style=flat-square&logo=css3)
-![Java](https://img.shields.io/badge/Java-%E2%9D%A4%EF%B8%8F-red?style=flat-square&logo=java)
-![C#](https://img.shields.io/badge/C%23-%E2%9D%A4%EF%B8%8F-purple?style=flat-square&logo=c-sharp)
-![C++](https://img.shields.io/badge/C%2B%2B-%E2%9D%A4%EF%B8%8F-blue?style=flat-square&logo=c%2B%2B)
-![TypeScript](https://img.shields.io/badge/TypeScript-%E2%9D%A4%EF%B8%8F-blue?style=flat-square&logo=typescript)
-![Swift](https://img.shields.io/badge/Swift-%E2%9D%A4%EF%B8%8F-orange?style=flat-square&logo=swift)
+### Game Development
+![Unity](https://skillicons.dev/icons?i=unity)
+![Unreal Engine](https://skillicons.dev/icons?i=unrealengine)
 
-## Contact Me
-📫 Want to chat? Feel free to reach out through any of these platforms:
+## Projects
+- 🚀 **Aparat Streamer**: [Project 1 Name](https://github.com/ghalbeyou/aparat-streamer) - Short project description.
 
-[![Discord](https://img.shields.io/badge/Discord-%E2%9D%A4%EF%B8%8F-7289DA?style=flat-square&logo=discord)](https://discord.ghalbeyou.ir)
-[![Website](https://img.shields.io/badge/Website-%E2%9D%A4%EF%B8%8F-blue?style=flat-square&logo=html5)](https://ghalbeyou.ir)
-[![GitHub](https://img.shields.io/badge/GitHub-%E2%9D%A4%EF%B8%8F-black?style=flat-square&logo=github)](https://github.com/ghalbeyou)
+## Let's Connect
+You can find me on various platforms. Feel free to reach out, collaborate, or just say hello!
 
-Let's connect and collaborate on exciting projects together! 🚀
+- [![Website](https://skillicons.dev/icons?i=world)](https://ghalbeyou.ir)
+- [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/AccountAmini)
+- [![Dev.to](https://skillicons.dev/icons?i=dev-dot-to)](https://dev.to/ghalbeyou)
+
+Let's code something amazing together! 😄
