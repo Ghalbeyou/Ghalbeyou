@@ -24,7 +24,7 @@ I'm a passionate programmer, student, and avid gamer. I find joy in coding and l
 ![Unreal Engine](https://skillicons.dev/icons?i=unrealengine)
 
 ## Projects
-- 🚀 **Aparat Streamer**: [Project 1 Name](https://github.com/ghalbeyou/aparat-streamer) - Short project description.
+- 🚀 **Project 1**: [Aparat Streamer](https://github.com/ghalbeyou/aparat-streamer) - This is a streamming tool for aparat.
 
 ## Let's Connect
 You can find me on various platforms. Feel free to reach out, collaborate, or just say hello!
