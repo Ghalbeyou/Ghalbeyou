@@ -1,56 +1,32 @@
-<h1>Hey, Its <b>GhalbeYou</b>! 👋👋👋 </h1>
-<table>
-<th>
-<h3>About Me</h3>
-A <b>PRO</b> gamer, student + programmer. I like to program its fun and make me happy. all of my time is spent for programing. maybe you should too.
-</th>
-</table>
-<table>
-<th width="50%">
-<h2>Apps:</h2>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,atom" alt="vs 2022"/>
-<img src="https://skillicons.dev/icons?i=unity,unrealengine" alt="vs 2022"/>
-</th>
-<th>
-<h2>Languages:</h2>
-<img src="https://skillicons.dev/icons?i=python,js,css,html,markdown" alt="Languages"/>
-<img src="https://skillicons.dev/icons?i=java,nextjs,react,cs,cpp" alt="Languages"/>
-<img src="https://skillicons.dev/icons?i=c,ts,swift" alt="Languages"/>
-</th>
-</table>
+# Hi there! I'm ArashSlime(GhalbeYou)! 👋
 
-[//]: # (<table>)
+## About Me
+🎮 Gamer | 🎓 Student | 💻 Programmer
 
-[//]: # (<th width="50%">)
+Welcome to my GitHub! I'm passionate about coding, and I love turning ideas into reality through programming. My journey in the world of technology is filled with exciting projects and learning experiences. Join me as I continue to explore and create!
 
-[//]: # (<h2>App/packages i made:</h2>)
+## Skills
+### Apps & Tools
+![VS Code](https://img.shields.io/badge/Editor-VS_Code-blue?style=flat-square&logo=visual-studio-code)
+![Unity](https://img.shields.io/badge/Game_Engine-Unity-blue?style=flat-square&logo=unity)
+![Unreal Engine](https://img.shields.io/badge/Game_Engine-Unreal_Engine-blue?style=flat-square&logo=unreal-engine)
 
-[//]: # (<img src="https://skillicons.dev/icons?i=vscode,visualstudio,atom" alt="vs 2022"/>)
+### Languages
+![Python](https://img.shields.io/badge/Python-%E2%9D%A4%EF%B8%8F-blue?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-%E2%9D%A4%EF%B8%8F-yellow?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-%E2%9D%A4%EF%B8%8F-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-%E2%9D%A4%EF%B8%8F-blue?style=flat-square&logo=css3)
+![Java](https://img.shields.io/badge/Java-%E2%9D%A4%EF%B8%8F-red?style=flat-square&logo=java)
+![C#](https://img.shields.io/badge/C%23-%E2%9D%A4%EF%B8%8F-purple?style=flat-square&logo=c-sharp)
+![C++](https://img.shields.io/badge/C%2B%2B-%E2%9D%A4%EF%B8%8F-blue?style=flat-square&logo=c%2B%2B)
+![TypeScript](https://img.shields.io/badge/TypeScript-%E2%9D%A4%EF%B8%8F-blue?style=flat-square&logo=typescript)
+![Swift](https://img.shields.io/badge/Swift-%E2%9D%A4%EF%B8%8F-orange?style=flat-square&logo=swift)
 
-[//]: # (<img src="https://skillicons.dev/icons?i=unity,unrealengine" alt="vs 2022"/>)
+## Contact Me
+📫 Want to chat? Feel free to reach out through any of these platforms:
 
-[//]: # (</th>)
+[![Discord](https://img.shields.io/badge/Discord-%E2%9D%A4%EF%B8%8F-7289DA?style=flat-square&logo=discord)](https://discord.ghalbeyou.ir)
+[![Website](https://img.shields.io/badge/Website-%E2%9D%A4%EF%B8%8F-blue?style=flat-square&logo=html5)](https://ghalbeyou.ir)
+[![GitHub](https://img.shields.io/badge/GitHub-%E2%9D%A4%EF%B8%8F-black?style=flat-square&logo=github)](https://github.com/ghalbeyou)
 
-[//]: # (<th>)
-
-[//]: # (<h2>Languages:</h2>)
-
-[//]: # (<img src="https://skillicons.dev/icons?i=python,js,css,html,markdown" alt="Languages"/>)
-
-[//]: # (<img src="https://skillicons.dev/icons?i=java,nextjs,react,cs,cpp" alt="Languages"/>)
-
-[//]: # (<img src="https://skillicons.dev/icons?i=c,ts,swift" alt="Languages"/>)
-
-[//]: # (</th>)
-
-[//]: # (</table>)
-<table>
-<th>
-<h3>Contact me</h3>
-How you can contact me? you can contact me by clicking on logos. by clicking you will redirect to the social page. try clicking on one of the icons to redirect to social page to contact me for free. Please also don't spam because spamming = ban.
-<br/>
-<a href="https://discord.ghalbeyou.ir"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"/></a>
-<a href="https://ghalbeyou.ir"><img src="https://skillicons.dev/icons?i=html" alt="Contact page"/></a>
-<a href="https://github.com/ghalbeyou"><img src="https://skillicons.dev/icons?i=github" alt="Github"/></a>
-</th>
-</table>
+Let's connect and collaborate on exciting projects together! 🚀
